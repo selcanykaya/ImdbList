@@ -1,1 +1,1 @@
-# IMDB
+C# dili ile bir film listesi oluşturdum.Bu listeye kullanıcı istediği kadar film ekleyebilmesini sağladım.Sonrasında eklenen filmler farklı kombinasyonlarla kullanıcıya gösterilmesi sağlandı.Affiyet olsun<3
